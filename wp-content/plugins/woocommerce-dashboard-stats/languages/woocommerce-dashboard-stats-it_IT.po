@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Dashboard Stats\n"
+"POT-Creation-Date: 2015-11-13 11:42+0100\n"
+"PO-Revision-Date: 2015-11-13 11:42+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/admin/WCDS_Dashboard.php:11
+msgid "Geographical stats"
+msgstr ""
+
+#: classes/admin/WCDS_Dashboard.php:12
+msgid "Customers stats"
+msgstr ""
+
+#: classes/admin/WCDS_Dashboard.php:13
+msgid "Products stats"
+msgstr ""
+
+#: classes/admin/WCDS_Dashboard.php:14
+msgid "Earnings stats"
+msgstr ""
+
+#: classes/com/WCDS_Html.php:32 classes/com/WCDS_Html.php:101
+#: classes/com/WCDS_Html.php:163 classes/com/WCDS_Html.php:252
+msgid "Start date cannot be greater than End date."
+msgstr ""
+
+#: classes/com/WCDS_Html.php:35 classes/com/WCDS_Html.php:106
+#: classes/com/WCDS_Html.php:170 classes/com/WCDS_Html.php:255
+msgid ""
+"If a data range is not selected, the displayed stats are relative to the "
+"current month: "
+msgstr ""
+
+#: classes/com/WCDS_Html.php:40
+msgid "Max results"
+msgstr ""
+
+#: classes/com/WCDS_Html.php:48
+msgid "Country"
+msgstr ""
+
+#: classes/com/WCDS_Html.php:49
+msgid "State/Province"
+msgstr ""
+
+#: classes/com/WCDS_Html.php:54 classes/com/WCDS_Html.php:115
+#: classes/com/WCDS_Html.php:179 classes/com/WCDS_Html.php:266
+msgid "Start date"
+msgstr ""
+
+#: classes/com/WCDS_Html.php:55 classes/com/WCDS_Html.php:116
+#: classes/com/WCDS_Html.php:180 classes/com/WCDS_Html.php:267
+msgid "End date"
+msgstr ""
+
+#: classes/com/WCDS_Html.php:57 classes/com/WCDS_Html.php:118
+#: classes/com/WCDS_Html.php:182 classes/com/WCDS_Html.php:269
+msgid "Filter"
+msgstr ""
+
+#: classes/com/WCDS_Html.php:61
+msgid "Earnings per area"
+msgstr ""
+
+#: classes/com/WCDS_Html.php:63 classes/com/WCDS_Html.php:123
+#: classes/com/WCDS_Html.php:187 classes/com/WCDS_Html.php:276
+msgid "Computing data, please wait..."
+msgstr ""
+
+#: classes/com/WCDS_Html.php:75 classes/com/WCDS_Html.php:288
+msgid "Date"
+msgstr ""
+
+#: classes/com/WCDS_Html.php:76 classes/com/WCDS_Html.php:200
+#: classes/com/WCDS_Html.php:289
+msgid "Item Sales Count"
+msgstr ""
+
+#: classes/com/WCDS_Html.php:77 classes/com/WCDS_Html.php:201
+#: classes/com/WCDS_Html.php:274 classes/com/WCDS_Html.php:290
+msgid "Earnings"
+msgstr ""
+
+#: classes/com/WCDS_Html.php:86 classes/com/WCDS_Html.php:147
+#: classes/com/WCDS_Html.php:210 classes/com/WCDS_Html.php:299
+msgid "Total"
+msgstr ""
+
+#: classes/com/WCDS_Html.php:109
+msgid "Max customers"
+msgstr ""
+
+#: classes/com/WCDS_Html.php:121
+msgid "Customers"
+msgstr ""
+
+#: classes/com/WCDS_Html.php:135 classes/com/WCDS_Html.php:199
+msgid "Name"
+msgstr ""
+
+#: classes/com/WCDS_Html.php:136
+msgid "Guest"
+msgstr ""
+
+#: classes/com/WCDS_Html.php:137
+msgid "Orders Count"
+msgstr ""
+
+#: classes/com/WCDS_Html.php:138
+msgid "Spent"
+msgstr ""
+
+#: classes/com/WCDS_Html.php:165
+msgid "Yes"
+msgstr ""
+
+#: classes/com/WCDS_Html.php:166
+msgid "No"
+msgstr ""
+
+#: classes/com/WCDS_Html.php:173
+msgid "Max products"
+msgstr ""
+
+#: classes/com/WCDS_Html.php:185
+msgid "Products"
+msgstr ""
+
+#: classes/com/WCDS_Html.php:260
+msgid "Daily View"
+msgstr ""
+
+#: classes/com/WCDS_Html.php:261
+msgid "Monthly View"
+msgstr ""
+
+#: classes/com/WCDS_Html.php:262
+msgid "Yearly View"
+msgstr ""
