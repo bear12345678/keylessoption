@@ -1319,7 +1319,7 @@ function wb_write_user_script($wb_call_option = NULL, $wb_setting_name = NULL) {
      * Smaill Screen Script
      */
     if ($show_woobag_small_screen === 'no'):
-        $wb_user_script .= "function wb_small_screen_option() {
+        $wb_user_script .= /*"function wb_small_screen_option() {
             if ($(window).width() < 400) {
                 $('#wb_all_content_in_footer').html('');
             }
@@ -1327,7 +1327,7 @@ function wb_write_user_script($wb_call_option = NULL, $wb_setting_name = NULL) {
     wb_small_screen_option();
     $(window).on('resize', function () {
         wb_small_screen_option();
-    });";
+    });"*/"";
     endif;
 
     $wb_user_script .= " })(jQuery, window, document);";
