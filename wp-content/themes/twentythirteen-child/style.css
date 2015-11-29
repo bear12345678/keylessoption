@@ -2576,9 +2576,6 @@ form#commentform.comment-form {
   background: #e0e0e0;
   white-space: nowrap;
 }
-.product_meta tr:nth-child(odd) {
-  background: #eeeeee;
-}
 #review_form_wrapper #review_form {
   text-align: center;
 }
@@ -3242,7 +3239,7 @@ body {
 /***************23-11-2015****************/
 ul.products a.added-to-cart {  
   opacity: 1;
-  border: 2px solid rgb(15, 117, 188);
+  border: 1px solid rgb(15, 117, 188);
 }
 
 
